@@ -21,11 +21,11 @@ Maybe read some other parts of the [wiki](https://github.com/yeg-relief/design/w
 
 # Components
 
-[screenerClient](https://github.com/yeg-relief/screenerClient) is the `web client` it is written in [Angular](https://angular.io/) -- [wiki](https://github.com/yeg-relief/design/wiki/Client-Side-Application). One useful feature is the `/admin` module. It allows for a user of reasonable computer proficiency to configure [elasticsearch](https://www.elastic.co/products/elasticsearch) from a `gui`.
+[screenerClient](https://github.com/yeg-relief/screenerClient) is the `web client` it is written in [Angular](https://angular.io/)/ One useful feature is the `/admin` module. It allows for a user of reasonable computer proficiency to configure [elasticsearch](https://www.elastic.co/products/elasticsearch) from a `gui`.
 
 ![master-screener edit](https://github.com/yeg-relief/design/blob/master/pictures/master-screener-edit.PNG?raw=true)
 
-[api-server](https://github.com/yeg-relief/api-server) is the `api` that handles backend business logic and acts as an interface with `elasticsearch`. [wiki](https://github.com/yeg-relief/design/wiki/Server-Side-Application).
+[api-server](https://github.com/yeg-relief/api-server) is the `api` that handles backend business logic and acts as an interface with `elasticsearch`.
 
 [utils](https://github.com/yeg-relief/utils) are various utilities that can manage `elasticsearch` data. Used to `seed` -- create the database and put a test value in it -- `download` data or `stream` data from one `elasticsearch` instance to another.
 
