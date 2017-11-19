@@ -1,8 +1,8 @@
 # YouCanBenefit design
 Diagrams, relationships and next steps
 
-### Developer quick-start
-Want to run the app? Setup is documented [here](https://github.com/yeg-relief/design/wiki/Developer-quickish-start). 
+### Deployment quick-start
+Want to run the app? Setup is documented [here](https://github.com/yeg-relief/design/wiki/Deployment-quickish-start). 
 Maybe read some other parts of the wiki too.
 
 
