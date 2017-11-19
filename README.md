@@ -49,24 +49,24 @@ Maybe read some other parts of the [wiki](https://github.com/yeg-relief/design/w
 4. refactor modules -- improve code quality
 5. document modules -- a diagram and a sentence or two
 6. combine modules -- combine modules into application
+7. Publish the code as npm modules.
 
 # client side specific
 
 1. split the user and admin application into two different applications
-2. make the user application a super small [progressive web application](https://developers.google.com/web/progressive-web-apps/) composed by [custom elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements).
-3. make the admin application a heavier `Angular` application. 
+2. make the user application vanilla
+3. implement progressive web application features
+4. make the admin application a heavier `Angular` application. 
 
 # server side specific
 
-1. A big one, but super cool: [Microservices](https://smartbear.com/learn/api-design/what-are-microservices/) with [nginx unit](https://unit.nginx.org/).
-
-# npm
-
-1. Publish the code as npm modules.
-
-# Docker
-
 1. Production, development and test docker builds.
+
+
+
+
+
+
 
 
 
