@@ -2,7 +2,7 @@
 Diagrams, relationships and next steps
 
 ### Developer quick-start
-Want to run the app? Set is documented [here](https://github.com/yeg-relief/design/wiki/Developer-quickish-start). 
+Want to run the app? Setup is documented [here](https://github.com/yeg-relief/design/wiki/Developer-quickish-start). 
 Maybe read some other parts of the wiki too.
 
 
