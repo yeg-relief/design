@@ -21,7 +21,7 @@ Maybe read some other parts of the [wiki](https://github.com/yeg-relief/design/w
 
 # Components
 
-[screenerClient](https://github.com/yeg-relief/screenerClient) is the `web client` it is written in [Angular](https://angular.io/)/ One useful feature is the `/admin` module. It allows for a user of reasonable computer proficiency to configure [elasticsearch](https://www.elastic.co/products/elasticsearch) from a `gui`.
+[screenerClient](https://github.com/yeg-relief/screenerClient) is the `web client` it is written in [Angular](https://angular.io/)/ One useful feature is the `/admin` module. It allows for an admin to configure [elasticsearch](https://www.elastic.co/products/elasticsearch) from a `gui`.
 
 ![master-screener edit](https://github.com/yeg-relief/design/blob/master/pictures/master-screener-edit.PNG?raw=true)
 
