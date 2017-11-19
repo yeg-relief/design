@@ -8,7 +8,7 @@
 
 ### Deployment quick-start
 Want to run the app? Setup is documented [here](https://github.com/yeg-relief/design/wiki/Deployment-quickish-start). 
-Maybe read some other parts of the wiki too.
+Maybe read some other parts of the [wiki](https://github.com/yeg-relief/design/wiki) too.
 
 
 # Technologies
