@@ -4,7 +4,7 @@
 
 # Purpose
 
-`YouCanBenefit` is a web application ([wiki](https://github.com/yeg-relief/design/wiki/Architecture)) that increases social benefit program discoverability for people of lesser means and their allies. There are similiar projects, but where I think `YouCanBenefit` differs in at least some cases, is that it takes what the user likely knows -- their demographic information -- and compares against what the user likely has trouble finding -- the available social programs. [wiki](https://github.com/yeg-relief/design/wiki/Elasticsearch-model).
+`YouCanBenefit` is a web application that increases social benefit program discoverability for people of lesser means and their allies. There are similiar projects, but where I think `YouCanBenefit` differs in at least some cases, is that it takes what the user likely knows -- their demographic information -- and compares against what the user likely has trouble finding -- the available social programs.
 
 ### Deployment quick-start
 Want to run the app? Setup is documented [here](https://github.com/yeg-relief/design/wiki/Deployment-quickish-start). 
