@@ -2,6 +2,10 @@
 ![home_page](https://github.com/yeg-relief/design/blob/master/pictures/youcan-benefit.PNG?raw=true)
 [try it live](http://www.youcanbenefit.ca/)
 
+# Documentation
+
+If you're looking for documentation, then be sure to read the [wiki](https://github.com/yeg-relief/design/wiki).
+
 # Purpose
 
 `YouCanBenefit` is a web application that increases social benefit program discoverability for people of lesser means and their allies. There are similiar projects, but where I think `YouCanBenefit` differs in at least some cases, is that it takes what the user likely knows -- their demographic information -- and compares against what the user likely has trouble finding -- the available social programs. It does not save user data.
