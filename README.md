@@ -14,14 +14,13 @@ If you're looking for documentation, then be sure to read the [wiki](https://git
 Want to run the app? Setup is documented [here](https://github.com/yeg-relief/design/wiki/Deployment-quick-start). 
 Maybe read some other parts of the [wiki](https://github.com/yeg-relief/design/wiki) too.
 
-
 # Technologies
 
-* [typescript](http://www.typescriptlang.org/)
-* [node](https://nodejs.org/en/)
-* [caddyserver](https://caddyserver.com/)
-
-
+* [Angular](https://angular.io/)
+* [Caddyserver](https://caddyserver.com/)
+* [Docker](https://www.docker.com/)
+* [Node](https://nodejs.org/en/)
+* [Typescript](http://www.typescriptlang.org/)
 
 # Components
 
