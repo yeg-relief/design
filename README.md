@@ -7,7 +7,7 @@
 `YouCanBenefit` is a web application that increases social benefit program discoverability for people of lesser means and their allies. There are similiar projects, but where I think `YouCanBenefit` differs in at least some cases, is that it takes what the user likely knows -- their demographic information -- and compares against what the user likely has trouble finding -- the available social programs. It does not save user data.
 
 ### Deployment quick-start
-Want to run the app? Setup is documented [here](https://github.com/yeg-relief/design/wiki/Deployment-quickish-start). 
+Want to run the app? Setup is documented [here](https://github.com/yeg-relief/design/wiki/Deployment-quick-start). 
 Maybe read some other parts of the [wiki](https://github.com/yeg-relief/design/wiki) too.
 
 
@@ -31,7 +31,7 @@ Maybe read some other parts of the [wiki](https://github.com/yeg-relief/design/w
 
 ***
 
-[developer quickstart](https://github.com/yeg-relief/design/wiki/Developer-quickish-start) hopefully a relatively simple set of instructions to start. Ideally a [Docker image](https://www.docker.com/) will be created in the future so that it's super easy to set up a `development` or `production` enviroment/
+[developer quickstart](https://github.com/yeg-relief/design/wiki/Developer-quick-start) hopefully a relatively simple set of instructions to start.
 
 # Where to go next?
 
@@ -60,7 +60,7 @@ Maybe read some other parts of the [wiki](https://github.com/yeg-relief/design/w
 
 # server side specific
 
-1. Production, development and test docker builds.
+1. ~~Production~~, development and test docker builds.
 
 
 
