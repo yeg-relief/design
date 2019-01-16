@@ -1,3 +1,6 @@
+## THIS IS NO LONGER ACCURATE DOCUMENTATION
+For up to date docs, see [here](https://github.com/yeg-relief/youcanbenefit/wiki).
+
 # YouCanBenefit
 ![home_page](https://github.com/yeg-relief/design/blob/master/pictures/youcan-benefit.PNG?raw=true)
 [try it live](http://www.youcanbenefit.ca/)
